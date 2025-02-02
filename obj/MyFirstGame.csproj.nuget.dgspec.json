@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\GameRepos\\MyFirstGame\\MyFirstGame.csproj": {}
+    "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\MyFirstGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\GameRepos\\MyFirstGame\\MyFirstGame.csproj": {
+    "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\MyFirstGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\GameRepos\\MyFirstGame\\MyFirstGame.csproj",
+        "projectUniqueName": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\MyFirstGame.csproj",
         "projectName": "MyFirstGame",
-        "projectPath": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\GameRepos\\MyFirstGame\\MyFirstGame.csproj",
+        "projectPath": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\MyFirstGame.csproj",
         "packagesPath": "C:\\Users\\simob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\GameRepos\\MyFirstGame\\obj\\",
+        "outputPath": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
