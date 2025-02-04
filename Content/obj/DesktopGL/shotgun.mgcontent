@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/10 Guage Shotgun-SoundBible.com-74120584.wav</SourceFile>
-  <SourceTime>2011-07-26T16:03:16+02:00</SourceTime>
-  <DestFile>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/bin/DesktopGL/shotgun.xnb</DestFile>
-  <DestTime>2025-02-03T23:08:19.3063968+01:00</DestTime>
+  <SourceFile>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/10 Guage Shotgun-SoundBible.com-74120584.wav</SourceFile>
+  <SourceTime>2025-02-04T20:04:45.2125444+01:00</SourceTime>
+  <DestFile>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/bin/DesktopGL/shotgun.xnb</DestFile>
+  <DestTime>2025-02-04T20:05:59.5017042+01:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

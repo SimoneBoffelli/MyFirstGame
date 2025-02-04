@@ -4,19 +4,19 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/../../../../../../../Desktop/back.jpg</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/10 Guage Shotgun-SoundBible.com-74120584.wav</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/back.jpg</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/crosshairs.png</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/galleryFont.spritefont</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/loop.ogg</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/opening.ogg</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/sky.png</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/target.png</File>
+    <File>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/10 Guage Shotgun-SoundBible.com-74120584.wav</File>
+    <File>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/back.jpg</File>
+    <File>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/bullet.png</File>
+    <File>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/crosshairs.png</File>
+    <File>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/galleryFont.spritefont</File>
+    <File>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/loop.ogg</File>
+    <File>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/opening.ogg</File>
+    <File>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/sky.png</File>
+    <File>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/target.png</File>
   </SourceFiles>
   <DestFiles>
-    <File>back.jpg</File>
     <File>shotgun.wav</File>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
