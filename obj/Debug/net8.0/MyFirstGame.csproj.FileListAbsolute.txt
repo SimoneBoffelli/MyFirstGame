@@ -28,3 +28,10 @@ C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirs
 C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\obj\Debug\net8.0\MyFirstGame.pdb
 C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\obj\Debug\net8.0\MyFirstGame.genruntimeconfig.cache
 C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\obj\Debug\net8.0\ref\MyFirstGame.dll
+C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\bin\Debug\net8.0\Content\guageShotgun.xnb
+C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\bin\Debug\net8.0\Content\shotgun.xnb
+C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\bin\Debug\net8.0\Content\back.xnb
+C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\bin\Debug\net8.0\Content\loop.ogg
+C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\bin\Debug\net8.0\Content\loop.xnb
+C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\bin\Debug\net8.0\Content\opening.ogg
+C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\bin\Debug\net8.0\Content\opening.xnb
