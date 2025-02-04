@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/crosshairs.png</SourceFile>
-  <SourceTime>2025-02-04T18:59:54.4180954+01:00</SourceTime>
-  <DestFile>C:/Users/Simone/OneDrive/Documenti/Scuola/Progetti/Git/MyFirstGame/Content/bin/DesktopGL/Content/crosshairs.xnb</DestFile>
-  <DestTime>2025-02-04T20:05:14.576494+01:00</DestTime>
+  <SourceFile>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/crosshairs.png</SourceFile>
+  <SourceTime>2025-02-02T16:05:38.5778452+01:00</SourceTime>
+  <DestFile>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/bin/DesktopGL/Content/crosshairs.xnb</DestFile>
+  <DestTime>2025-02-04T20:48:46.3822605+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

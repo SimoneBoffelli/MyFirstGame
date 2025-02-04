@@ -13,24 +13,6 @@
 
 #---------------------------------- Content ---------------------------------#
 
-#begin ../../../../../../../Desktop/back.jpg
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:../../../../../../../Desktop/back.jpg;back.jpg
-
-#begin 10 Guage Shotgun-SoundBible.com-74120584.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:10 Guage Shotgun-SoundBible.com-74120584.wav;shotgun.wav
-
 #begin back.jpg
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -43,18 +25,6 @@
 /processorParam:TextureFormat=Color
 /build:back.jpg
 
-#begin bullet.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:bullet.png
-
 #begin crosshairs.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -66,6 +36,12 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:crosshairs.png
+
+#begin File.fx
+/importer:EffectImporter
+/processor:EffectProcessor
+/processorParam:DebugMode=Auto
+/build:File.fx
 
 #begin galleryFont.spritefont
 /importer:FontDescriptionImporter
@@ -85,6 +61,12 @@
 /processor:SongProcessor
 /processorParam:Quality=Best
 /build:opening.ogg
+
+#begin shotgun.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:shotgun.wav
 
 #begin sky.png
 /importer:TextureImporter

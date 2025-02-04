@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simone\\OneDrive\\Documenti\\Scuola\\Progetti\\Git\\MyFirstGame\\MyFirstGame.csproj": {}
+    "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\MyFirstGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simone\\OneDrive\\Documenti\\Scuola\\Progetti\\Git\\MyFirstGame\\MyFirstGame.csproj": {
+    "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\MyFirstGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simone\\OneDrive\\Documenti\\Scuola\\Progetti\\Git\\MyFirstGame\\MyFirstGame.csproj",
+        "projectUniqueName": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\MyFirstGame.csproj",
         "projectName": "MyFirstGame",
-        "projectPath": "C:\\Users\\Simone\\OneDrive\\Documenti\\Scuola\\Progetti\\Git\\MyFirstGame\\MyFirstGame.csproj",
-        "packagesPath": "C:\\Users\\Simone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simone\\OneDrive\\Documenti\\Scuola\\Progetti\\Git\\MyFirstGame\\obj\\",
+        "projectPath": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\MyFirstGame.csproj",
+        "packagesPath": "C:\\Users\\simob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Simone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\simob\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -75,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -139,7 +139,7 @@ namespace MyFirstGame
             _spriteBatch.Draw(backgroundSprite, new Rectangle(0, 0, GraphicsDevice.Viewport.Width, GraphicsDevice.Viewport.Height), Color.White);
             _spriteBatch.Draw(targetSprite, new Vector2(targetPosition.X - TARGET_RADIUS,targetPosition.Y - TARGET_RADIUS), Color.White); // disegno del target e  prende la posizione targetPosition (corregge la posizione (che di default e' in alto a sinistra) sottraendo il raggio del target in modo da centrare la posizione al centro della sprite)
             _spriteBatch.Draw(crosshairsSprite, new Vector2(Mouse.GetState().X - CROSSHAIRS_RADIUS, Mouse.GetState().Y - CROSSHAIRS_RADIUS), Color.Blue); // disegno del mirino
-            _spriteBatch.Draw(bullet, new Vector2(Mouse.GetState().X - CROSSHAIRS_RADIUS, Mouse.GetState().Y - CROSSHAIRS_RADIUS), Color.White); // disegno del mirino
+            //_spriteBatch.Draw(bullet, new Vector2(Mouse.GetState().X - CROSSHAIRS_RADIUS, Mouse.GetState().Y - CROSSHAIRS_RADIUS), Color.White); // disegno del mirino
 
             // Disegno del testo
             _spriteBatch.DrawString(gameFont, "Shoot at the target!", new Vector2(50, 10), Color.White); // disegno del testo
