@@ -37,3 +37,5 @@ C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirs
 C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\obj\Debug\net8.0\ref\MyFirstGame.dll
 C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\bin\Debug\net8.0\Content\File.xnb
 C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\bin\Debug\net8.0\Content\shotgun.xnb
+C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\bin\Debug\net8.0\Content\dryFire.xnb
+C:\Users\simob\OneDrive\Documenti\Documenti\Programmazione\Repo\GameRepos\MyFirstGame\bin\Debug\net8.0\Content\popClip.xnb

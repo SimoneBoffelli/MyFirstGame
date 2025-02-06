@@ -37,6 +37,12 @@
 /processorParam:TextureFormat=Color
 /build:crosshairs.png
 
+#begin dryFire.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:dryFire.wav
+
 #begin File.fx
 /importer:EffectImporter
 /processor:EffectProcessor
@@ -61,6 +67,12 @@
 /processor:SongProcessor
 /processorParam:Quality=Best
 /build:opening.ogg
+
+#begin popClip.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:popClip.wav
 
 #begin shotgun.wav
 /importer:WavImporter
