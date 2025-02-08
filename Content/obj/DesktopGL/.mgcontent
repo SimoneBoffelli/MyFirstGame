@@ -4,19 +4,23 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/back.jpg</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/crosshairs.png</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/dryFire.wav</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/File.fx</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/galleryFont.spritefont</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/loop.ogg</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/opening.ogg</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/popClip.wav</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/shotgun.wav</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/sky.png</File>
-    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/target.png</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/Backgrounds/back.jpg</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/Backgrounds/sky.png</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/Fonts/galleryFont.spritefont</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/SoundEffects/dryFire.wav</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/SoundEffects/popClip.wav</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/SoundEffects/shotgun.wav</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/Soundtrack/loop.ogg</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/Soundtrack/opening.ogg</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/Sprite/crosshairs.png</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/Sprite/target.png</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/Sprites/bullet.png</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/Sprites/crosshairs.png</File>
+    <File>C:/Users/simob/OneDrive/Documenti/Documenti/Programmazione/Repo/GameRepos/MyFirstGame/Content/Sprites/target.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

@@ -7,7 +7,12 @@
       "RelativeMoniker": "D:0:0:{C76F9B32-E76C-4395-8F46-774882B4FFE5}|MyFirstGame.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\simob\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\build\\MonoGame.Content.Builder.Task.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C76F9B32-E76C-4395-8F46-774882B4FFE5}|MyFirstGame.csproj|c:\\users\\simob\\onedrive\\documenti\\documenti\\programmazione\\repo\\gamerepos\\myfirstgame\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C76F9B32-E76C-4395-8F46-774882B4FFE5}|MyFirstGame.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76F9B32-E76C-4395-8F46-774882B4FFE5}|MyFirstGame.csproj|c:\\users\\simob\\onedrive\\documenti\\documenti\\programmazione\\repo\\gamerepos\\myfirstgame\\screens\\menuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76F9B32-E76C-4395-8F46-774882B4FFE5}|MyFirstGame.csproj|solutionrelative:screens\\menuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,28 +38,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MonoGame.Content.Builder.Task.targets",
-              "DocumentMoniker": "C:\\Users\\simob\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\build\\MonoGame.Content.Builder.Task.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\build\\MonoGame.Content.Builder.Task.targets",
-              "ToolTip": "C:\\Users\\simob\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\build\\MonoGame.Content.Builder.Task.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\build\\MonoGame.Content.Builder.Task.targets",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAmwI4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-02-04T19:28:44.277Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\Game1.cs",
               "RelativeDocumentMoniker": "Game1.cs",
-              "ToolTip": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\Game1.cs*",
-              "RelativeToolTip": "Game1.cs*",
-              "ViewState": "AgIAALUAAAAAAAAAAAAAAOYAAABcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwF8AAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T15:04:49.833Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-02-08T15:21:40.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuScreen.cs",
+              "DocumentMoniker": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\Screens\\MenuScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\MenuScreen.cs",
+              "ToolTip": "C:\\Users\\simob\\OneDrive\\Documenti\\Documenti\\Programmazione\\Repo\\GameRepos\\MyFirstGame\\Screens\\MenuScreen.cs",
+              "RelativeToolTip": "Screens\\MenuScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T15:12:23.61Z"
             }
           ]
         }

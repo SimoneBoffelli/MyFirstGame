@@ -72,8 +72,8 @@ namespace MyFirstGame
         protected override void LoadContent()
         {
             // caricamento musica di sottofondo
-            opening = Content.Load<Song>("opening");
-            loop = Content.Load<Song>("loop");
+            opening = Content.Load<Song>("Soundtrack/opening");
+            loop = Content.Load<Song>("Soundtrack/loop");
 
             // Assegna l'evento per il cambio di traccia
             MediaPlayer.MediaStateChanged += MediaPlayer_MediaStateChanged;
@@ -85,17 +85,17 @@ namespace MyFirstGame
             _spriteBatch = new SpriteBatch(GraphicsDevice); // usato per disegnare le texture nel metodo Draw()
 
             // Assegnazione dei sprite
-            targetSprite = Content.Load<Texture2D>("target");
-            crosshairsSprite = Content.Load<Texture2D>("crosshairs");
+            targetSprite = Content.Load<Texture2D>("Sprites/target");
+            crosshairsSprite = Content.Load<Texture2D>("Sprites/crosshairs");
             bullet = Content.Load<Texture2D>("bullet");
             //backgroundSprite = Content.Load<Texture2D>("sky");
-            backgroundSprite = Content.Load<Texture2D>("back");
+            backgroundSprite = Content.Load<Texture2D>("Backgrounds/back");
             // Assengazione del font
-            gameFont = Content.Load<SpriteFont>("galleryFont"); // caricamento del font
+            gameFont = Content.Load<SpriteFont>("Fonts/galleryFont"); // caricamento del font
             // Assegnazione del suono
-            shootSound = Content.Load<SoundEffect>("shotgun"); // caricamento del suono
-            reloadSound = Content.Load<SoundEffect>("popClip"); // caricamento del suono
-            emptySound = Content.Load<SoundEffect>("dryFire"); // caricamento del suono
+            shootSound = Content.Load<SoundEffect>("SoundEffects/shotgun"); // caricamento del suono
+            reloadSound = Content.Load<SoundEffect>("SoundEffects/popClip"); // caricamento del suono
+            emptySound = Content.Load<SoundEffect>("SoundEffects/dryFire"); // caricamento del suono
         }
 
         protected override void Update(GameTime gameTime)
