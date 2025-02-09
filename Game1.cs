@@ -23,6 +23,7 @@ namespace MyFirstGame
         SoundEffect shootSound;
         SoundEffect emptySound;
         SoundEffect reloadSound;
+
         // musica di sottofondo
         private Song opening;
         private Song loop;
@@ -169,8 +170,6 @@ namespace MyFirstGame
             _spriteBatch.Draw(targetSprite, new Vector2(targetPosition.X - TARGET_RADIUS,targetPosition.Y - TARGET_RADIUS), Color.White); // disegno del target e  prende la posizione targetPosition (corregge la posizione (che di default e' in alto a sinistra) sottraendo il raggio del target in modo da centrare la posizione al centro della sprite)
             _spriteBatch.Draw(crosshairsSprite, new Vector2(Mouse.GetState().X - CROSSHAIRS_RADIUS, Mouse.GetState().Y - CROSSHAIRS_RADIUS), Color.Blue); // disegno del mirino
                                                                                                                                                           //_spriteBatch.Draw(bullet, new Vector2(10, 10), null, Color.White, 0f, Vector2.Zero, .15f, SpriteEffects.None, 0f); // disegno i proiettili
-
-
             int screenWidth = GraphicsDevice.Viewport.Width;
             int screenHeight = GraphicsDevice.Viewport.Height;
 
@@ -231,8 +230,6 @@ namespace MyFirstGame
                 _spriteBatch.DrawString(gameFont, emptyText, new Vector2(startX, startY + 25), Color.Red);
             }
         }
-
-
 
         private void RemoveBullet()
         {
